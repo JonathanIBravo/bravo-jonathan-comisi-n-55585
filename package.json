@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "desafio-entregable03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafio02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server" : "nodemon src/servidor.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
